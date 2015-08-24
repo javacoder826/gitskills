@@ -1,6 +1,9 @@
 package top.itdream.git;
 
-public class User {
+/**
+用户实体类
+*/
+public class User {  
 	private Long id;
 	private String username;
 	private String password;
